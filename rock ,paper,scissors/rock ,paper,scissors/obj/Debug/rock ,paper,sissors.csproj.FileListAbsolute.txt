@@ -1,0 +1,10 @@
+C:\Users\office\source\repos\rock ,paper,sissors\rock ,paper,sissors\bin\Debug\rock ,paper,sissors.exe.config
+C:\Users\office\source\repos\rock ,paper,sissors\rock ,paper,sissors\bin\Debug\rock ,paper,sissors.exe
+C:\Users\office\source\repos\rock ,paper,sissors\rock ,paper,sissors\bin\Debug\rock ,paper,sissors.pdb
+C:\Users\office\source\repos\rock ,paper,sissors\rock ,paper,sissors\obj\Debug\rock ,paper,sissors.csprojAssemblyReference.cache
+C:\Users\office\source\repos\rock ,paper,sissors\rock ,paper,sissors\obj\Debug\rock__paper_sissors.Form1.resources
+C:\Users\office\source\repos\rock ,paper,sissors\rock ,paper,sissors\obj\Debug\rock__paper_sissors.Properties.Resources.resources
+C:\Users\office\source\repos\rock ,paper,sissors\rock ,paper,sissors\obj\Debug\rock ,paper,sissors.csproj.GenerateResource.cache
+C:\Users\office\source\repos\rock ,paper,sissors\rock ,paper,sissors\obj\Debug\rock ,paper,sissors.csproj.CoreCompileInputs.cache
+C:\Users\office\source\repos\rock ,paper,sissors\rock ,paper,sissors\obj\Debug\rock ,paper,sissors.exe
+C:\Users\office\source\repos\rock ,paper,sissors\rock ,paper,sissors\obj\Debug\rock ,paper,sissors.pdb
